@@ -1,4 +1,3 @@
-```markdown
 # Stripe Demo Terminal Setup
 
 A script to create a professional iTerm2 profile optimized for Stripe demos and presentations, featuring branded aesthetics, demo-friendly tools, and automatic Stripe CLI account visualization.
@@ -154,4 +153,3 @@ MIT License - Feel free to modify and share this script.
 ## Contributing
 
 Contributions welcome! Please feel free to submit a Pull Request.
-```
