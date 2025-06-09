@@ -2,8 +2,6 @@
 
 A script to create a professional iTerm2 profile optimized for Stripe demos and presentations, featuring branded aesthetics, demo-friendly tools, and automatic Stripe CLI account visualization.
 
-![Stripe Demo Terminal Preview](https://example.com/stripe-terminal-preview.png)
-
 ## Features
 
 - **Professional Appearance**
